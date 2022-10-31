@@ -116,7 +116,7 @@ def save_link2(message):
     
     
 
-
+# telegram bots: @dj_sanya_bot, @notifications_for_teachers_bot
 
 
 bot.polling(none_stop=True, interval=0)
